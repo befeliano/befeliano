@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @befeliano
 - 👀 I’m interested in coding and learning languages.
-- 🌱 I’m currently learning HTML, CSS and Python
+- 🌱 I’m currently learning C, C++ and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me on instagram : @befeliano
 
